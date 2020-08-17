@@ -2,7 +2,7 @@
 
 #### This was to have started out as a [**Grav**](https://getgrav.org) site!
 
-There are several similarities between **Grav** and [Jekyll](https://jekyllrb.com/)
+There are several similarities between **Grav** and [Jekyll](https://jekyllrb.com/){:target="_blank"}
 
 - They both use [YAML](https://yaml.org/) Frontmatter.
 - They both claim to serve up fast lightweight static web Pages.
@@ -15,3 +15,8 @@ There are several similarities between **Grav** and [Jekyll](https://jekyllrb.co
 ##### However…
 
 Pages served up from GitHub are free as part of the GitHub account but if you want to use Grav it needs a fairly traditional ISP host with PHP running which is a cost option and I've run into issues with permissions on uploading to the /www folder especially on Debian. 
+
+![Jekyll from it's website note the close integration with GitHub](../images/jek.jpg)  
+
+![Grav on the other hand](../images/grav.png)
+
