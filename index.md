@@ -4,13 +4,13 @@
 
 There are several similarities between **Grav** and [Jekyll](https://jekyllrb.com/){:target="_blank"}
 
-- They both use [YAML](https://yaml.org/) Frontmatter.
+- They both use [YAML](https://yaml.org/){:target="_blank"} Frontmatter.
 - They both claim to serve up fast lightweight static web Pages.
-- Grav uses PHP
-- Jekyll uses [Ruby](https://www.ruby-lang.org/en/)
-- The standard format for writing pages is [Markdown](https://www.markdownguide.org/)
-- Grav uses [Twig](https://twig.symfony.com/) templating system.
-- Jekyll uses [Liquid](https://jekyllrb.com/docs/liquid/) from Shopify.
+- Grav uses [PHP](https://www.php.net/){:target="_blank"}
+- Jekyll uses [Ruby](https://www.ruby-lang.org/en/){:target="_blank"}
+- The standard format for writing pages is [Markdown](https://www.markdownguide.org/){:target="_blank"}
+- Grav uses [Twig](https://twig.symfony.com/){:target="_blank"} templating system.
+- Jekyll uses [Liquid](https://jekyllrb.com/docs/liquid/){:target="_blank"} from Shopify.
 
 ##### However…
 
@@ -18,5 +18,8 @@ Pages served up from GitHub are free as part of the GitHub account but if you wa
 
 ![Jekyll from it's website note the close integration with GitHub](/images/Jek.jpg)  
 
+#### Jekyll home Pages
+
 ![Grav on the other hand](/images/grav.png)
 
+#### Grav features
