@@ -9,6 +9,8 @@ There are several similarities between **Grav** and [Jekyll](https://jekyllrb.co
 - Grav uses PHP
 - Jekyll uses [Ruby](https://www.ruby-lang.org/en/)
 - The standard format for writing pages is [Markdown](https://www.markdownguide.org/)
+- Grav uses [Twig](https://twig.symfony.com/) templating system.
+- Jekyll uses [Liquid](https://jekyllrb.com/docs/liquid/) from Shopify.
 
 ##### However…
 
