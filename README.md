@@ -1,2 +1,2 @@
 # blog-test
-quick blog test site, need to add pages and information.
+when editing this page it should be, but is not reflected on the site.
