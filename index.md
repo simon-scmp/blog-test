@@ -16,7 +16,7 @@ There are several similarities between **Grav** and [Jekyll](https://jekyllrb.co
 
 Pages served up from GitHub are free as part of the GitHub account but if you want to use Grav it needs a fairly traditional ISP host with PHP running which is a cost option and I've run into issues with permissions on uploading to the /www folder especially on Debian. 
 
-![Jekyll from it's website note the close integration with GitHub](../images/jek.jpg)  
+![Jekyll from it's website note the close integration with GitHub](/images/jek.jpg)  
 
-![Grav on the other hand](../images/grav.png)
+![Grav on the other hand](/images/grav.png)
 
