@@ -23,3 +23,5 @@ Pages served up from GitHub are free as part of the GitHub account but if you wa
 ![Grav on the other hand](/images/grav.png)
 
 #### Grav features
+
+However, Grav doesn't seem to have (pun) a lot of gravity behind it. I'm not seeing much evidence of widespread.
