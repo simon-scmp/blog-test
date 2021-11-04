@@ -2,7 +2,7 @@
 
 ### Updating…
 
-November 2021. Updating and coming back to GitHub Pages afer leaving for a while. I've
+November 2021. Updating and coming back to GitHub Pages afer leaving for a while. I've been looking at all the [Jamstack](https://jamstack.org) possibilities. Using [Netlify](https://netlify.com) for deployment over GitHub Pages. 
 
 #### This was to have started out as a [**Grav**](https://getgrav.org) site!
 
