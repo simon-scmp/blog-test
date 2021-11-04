@@ -1,5 +1,9 @@
 ## Welcome to my personal GitHub Pages
 
+### Updating…
+
+November 2021. Updating and coming back to GitHub Pages afer leaving for a while. I've
+
 #### This was to have started out as a [**Grav**](https://getgrav.org) site!
 
 There are several similarities between **Grav** and [Jekyll](https://jekyllrb.com/){:target="_blank"}
