@@ -1,2 +1,2 @@
 # blog-test
-when editing this page it should be, but is not reflected on the site.
+This is a quick Jekyll page test from Github
