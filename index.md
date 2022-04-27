@@ -2,7 +2,7 @@
 
 ### Updating…
 
-March 2022. Updating and coming back to GitHub Pages afer leaving for a while. I've been looking at all the [Jamstack](https://jamstack.org) possibilities. Using [Netlify](https://netlify.com) for deployment over GitHub Pages. Also looking at [publii](https://getpublii.com) using as headless CMS then directing to [Cloudflare Pages](https://pages.cloudflare.com) or working with **Render**
+May 2022. Updating and coming back to GitHub Pages afer leaving for a while. I've been looking at all the [Jamstack](https://jamstack.org) possibilities. Using [Netlify](https://netlify.com) for deployment over GitHub Pages. Also looking at [publii](https://getpublii.com) using as headless CMS then directing to [Cloudflare Pages](https://pages.cloudflare.com) or working with **Render**
 
 
 #### This was to have started out as a [**Grav**](https://getgrav.org) site!
