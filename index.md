@@ -2,6 +2,8 @@
 
 ### Updating…
 
+September 2023. Again done so little to all of this in the last few months. Have a project for a historical group to do a feasibility study on publishing an archive of leagal documents from the 1600's to 1800's online and there has been an amount of media interest in this project. I've not been doing commercial work in GH recently as there are other places that shows up so all of this is personal and thus pushed to back of queue stuff…
+
 May 2022. Updating and coming back to GitHub Pages afer leaving for a while. I've been looking at all the [Jamstack](https://jamstack.org) possibilities. Using [Netlify](https://netlify.com) for deployment over GitHub Pages. Also looking at [publii](https://getpublii.com) using as headless CMS then directing to [Cloudflare Pages](https://pages.cloudflare.com) or working with **Render**
 
 
